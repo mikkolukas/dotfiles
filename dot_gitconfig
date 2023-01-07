@@ -5,3 +5,5 @@
 	useConfigOnly = true
 [core]
 	autocrlf = input
+[merge]
+	renamelimit = 50000
